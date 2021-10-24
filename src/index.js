@@ -1,4 +1,4 @@
-const { createBrowser } = require("./controller");
+const { createBrowser } = require("./browser");
 const { appendDataToCSV } = require("./writeFile");
 const {
   extractInfo,
