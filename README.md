@@ -1,6 +1,6 @@
 # Breadth First Scrape - Puppeteer/Node.js
 
-This Scraper was developed as coding challenge. The requirement was to store all parts in a CSV file.
+This Scraper was developed as coding challenge, and is using the Breadth First Search algorithm for the website-graph traversal. The requirement was to scrape all products of an online catalogue and to store them in a CSV file.
 
 ```bash
 npm install
